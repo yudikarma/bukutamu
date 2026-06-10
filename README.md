@@ -27,12 +27,3 @@ Aplikasi buku tamu sederhana berbasis PHP, MySQL, dan Bootstrap lokal.
 3. Sesuaikan username/password MySQL di `koneksi.php` bila diperlukan.
 4. Jalankan project ini dari web server lokal.
 5. Buka `index.php` untuk form dan `daftar_tamu.php` untuk tabel data.
-
-## Catatan GitHub
-
-- Folder template awal dan file `DESIGN.md` sudah dimasukkan ke `.gitignore` agar tidak ikut ter-push.
-- Jika ingin upload ke GitHub:
-  1. `git init`
-  2. `git add .`
-  3. `git commit -m "Initial guest book app"`
-  4. hubungkan remote GitHub lalu `git push`
